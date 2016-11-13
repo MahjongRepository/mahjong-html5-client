@@ -1,0 +1,39 @@
+{
+  "name": "mahjong-html5-client",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "browserify": "^13.1.1",
+    "css-mqpacker": "^5.0.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-typescript": "^3.1.2",
+    "gulp-typescript-compiler": "^1.0.1",
+    "gulp-uglify": "^2.0.0",
+    "merge-stream": "^1.0.0",
+    "tsify": "^2.0.2",
+    "typescript": "^2.0.9",
+    "typings": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahjongRepository/mahjong-html5-client.git"
+  },
+  "author": "Alexey Lisikhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MahjongRepository/mahjong-html5-client/issues"
+  },
+  "homepage": "https://github.com/MahjongRepository/mahjong-html5-client#readme",
+  "dependencies": {
+    "del": "^2.2.2"
+  }
+}

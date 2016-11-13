@@ -1,0 +1,22 @@
+@import "../normalize.scss";
+
+/* Libraries, which is used in current project. */
+@import 'partials/_libraries';
+
+/* Libraries, which is used in current project. */
+@import 'built-in-partials/_service';
+
+/* Plugins, which is used in current project. */
+@import 'partials/_plugins';
+
+/* Components, which is used in current project. */
+@import 'partials/_components';
+
+/* Additional style files. */
+@import '../etc/etc';
+
+@import "../vars.scss";
+@import "../mixins.scss";
+@import "../common.scss";
+
+
